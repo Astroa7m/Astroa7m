@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astroa7m
 - 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning networking
+- 🌱 I’m currently learning Compose
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me ahmed123.as27@gmail.com
 
