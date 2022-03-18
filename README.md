@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astroa7m
 - 👀 I’m interested in mobile development 
-- 🌱 I’m currently learning Compose
-- 💞️ I’m looking to collaborate on nothing currently
+- 🌱 I’m currently making Android apps
+- 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me ahmed123.as27@gmail.com
 
 <!---
