@@ -12,6 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroa7m&layout=compact&theme=synthwave)](https://github.com/Astroa7m/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Astroa7m&theme=synthwave)](https://github.com/Astroa7m/github-readme-stats)
-
-
+<!-- [![Astroa7m's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Astroa7m)](https://github.com/Astroa7m/github-readme-stats)
+ -->
