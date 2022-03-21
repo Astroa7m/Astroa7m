@@ -8,3 +8,10 @@
 Astroa7m/Astroa7m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Astroa7m's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroa7m&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroa7m&layout=compact&theme=synthwave)](https://github.com/Astroa7m/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
