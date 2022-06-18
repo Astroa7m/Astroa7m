@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development 
 - 🌱 I’m currently making Android apps
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me ahmed123.as27@gmail.com
+- 📫 How to reach me [Twitter - astroa7m](https://twitter.com/astroa7m)
 
 <!---
 Astroa7m/Astroa7m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
