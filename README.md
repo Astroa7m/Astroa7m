@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👋 Hi, I’m @Astroa7m<br>👀 I’m interested in mobile development<br>🌱 I’m currently making Android apps<br>💞️ I’m looking to collaborate on open-source projects
+👋 Hi, I’m @Astroa7m<br>👀 I’m interested in tech<br>🌱 I’m currently making AI Apps<br>💞️ I’m looking to collaborate on open-source projects
 
 [![wakatime](https://wakatime.com/badge/user/d6f80ccc-d2df-42d4-ae7f-61c0bd91b49a.svg?style=social)](https://wakatime.com/@d6f80ccc-d2df-42d4-ae7f-61c0bd91b49a)
 
