@@ -13,10 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=astroa7m&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=astroa7m&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=astroa7m&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=astroa7m&theme=prussian&hide_border=true&border_radius=6)](https://git.io/streak-stats)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/astroscoding) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
