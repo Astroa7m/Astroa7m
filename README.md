@@ -15,7 +15,7 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 
 **AI & Agents**&ensp; LangChain · LangGraph · MCP · Google ADK · FastAPI · Streamlit
 
-**Languages**&ensp; Python · Kotlin
+**Languages**&ensp; Python · Kotlin · Java · C#
 
 **Previously**&ensp; Android · Jetpack Compose · Clean Architecture · Multi-module
 
