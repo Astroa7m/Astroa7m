@@ -30,7 +30,7 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 | [AOUNet](https://github.com/Astroa7m/AOUNet) | Knowledge-based RAG agent for Arab Open University — info retrieval and domain actions for students and tutors | ![Stars](https://img.shields.io/github/stars/Astroa7m/AOUNet?style=flat) |
 
 <details>
-<summary><strong>Archived Android Projects</strong></summary>
+<summary><strong>Archived Projects</strong></summary>
 <br>
 
 | Project | Description | Stars |
@@ -39,8 +39,9 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 | [Githuber](https://github.com/Astroa7m/Githuber) | Material 3 multi-module GitHub client with clean architecture | ![Stars](https://img.shields.io/github/stars/Astroa7m/Githuber?style=flat) |
 | [collapsible-app-bar](https://github.com/Astroa7m/collapsible-app-bar) | Animated collapsible toolbar using Jetpack Compose | ![Stars](https://img.shields.io/github/stars/Astroa7m/collapsible-app-bar?style=flat) |
 | [RemoteWidget](https://github.com/Astroa7m/RemoteWidget) | Scheduled image display in Glance widgets with WorkManager | ![Stars](https://img.shields.io/github/stars/Astroa7m/RemoteWidget?style=flat) |
+| [T-Rex_Runner](https://github.com/Astroa7m/T-Rex_Runner) | Python/Pygame remake of Chrome's offline dinosaur game | ![Stars](https://img.shields.io/github/stars/Astroa7m/T-Rex_Runner?style=flat) |
 
-[More Android projects →](https://github.com/Astroa7m?tab=repositories&language=kotlin&sort=stargazers)
+[More projects →](https://github.com/Astroa7m?tab=repositories&sort=stargazers)
 </details>
 
 ---
