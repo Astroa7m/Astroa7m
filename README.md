@@ -26,8 +26,8 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [MailNet](https://github.com/Astroa7m/MailNet) | AI-powered email client with scheduling, cron-based automation, and MCP server integration | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet?style=flat) |
-| [MailNet-MCP-Server](https://github.com/Astroa7m/MailNet-MCP-Server) | MCP server for Gmail & Outlook — powers MailNet's email actions | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet-MCP-Server?style=flat) |
-| [AOUNet](https://github.com/Astroa7m/AOUNet) | Knowledge-based RAG agent for Arab Open University — info retrieval and domain actions for students and tutors | ![Stars](https://img.shields.io/github/stars/Astroa7m/AOUNet?style=flat) |
+| [MailNet-MCP-Server](https://github.com/Astroa7m/MailNet-MCP-Server) | MCP server for Gmail & Outlook. Powers MailNet's email actions | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet-MCP-Server?style=flat) |
+| [AOUNet](https://github.com/Astroa7m/AOUNet) | Knowledge-based RAG agent for Arab Open University. Info retrieval and domain actions for students and tutors | ![Stars](https://img.shields.io/github/stars/Astroa7m/AOUNet?style=flat) |
 
 <details>
 <summary><strong>Archived Projects</strong></summary>
