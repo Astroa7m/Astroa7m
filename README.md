@@ -25,10 +25,23 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [MailNet-MCP-Server](https://github.com/Astroa7m/MailNet-MCP-Server) | MCP server for Gmail & Outlook email integration | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet-MCP-Server?style=flat) |
-| [forgesight](https://github.com/Astroa7m/forgesight) | Receipt forgery detection using ELA, MobileNetV2 & OCR | ![Stars](https://img.shields.io/github/stars/Astroa7m/forgesight?style=flat) |
+| [MailNet](https://github.com/Astroa7m/MailNet) | AI-powered email client with scheduling, cron-based automation, and MCP server integration | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet?style=flat) |
+| [MailNet-MCP-Server](https://github.com/Astroa7m/MailNet-MCP-Server) | MCP server for Gmail & Outlook — powers MailNet's email actions | ![Stars](https://img.shields.io/github/stars/Astroa7m/MailNet-MCP-Server?style=flat) |
+| [AOUNet](https://github.com/Astroa7m/AOUNet) | Knowledge-based RAG agent for Arab Open University — info retrieval and domain actions for students and tutors | ![Stars](https://img.shields.io/github/stars/Astroa7m/AOUNet?style=flat) |
+
+<details>
+<summary><strong>Archived Android Projects</strong></summary>
+<br>
+
+| Project | Description | Stars |
+|---------|-------------|-------|
 | [Reels](https://github.com/Astroa7m/Reels) | Instagram-style streaming video player with Jetpack Compose & Media3 | ![Stars](https://img.shields.io/github/stars/Astroa7m/Reels?style=flat) |
 | [Githuber](https://github.com/Astroa7m/Githuber) | Material 3 multi-module GitHub client with clean architecture | ![Stars](https://img.shields.io/github/stars/Astroa7m/Githuber?style=flat) |
+| [collapsible-app-bar](https://github.com/Astroa7m/collapsible-app-bar) | Animated collapsible toolbar using Jetpack Compose | ![Stars](https://img.shields.io/github/stars/Astroa7m/collapsible-app-bar?style=flat) |
+| [RemoteWidget](https://github.com/Astroa7m/RemoteWidget) | Scheduled image display in Glance widgets with WorkManager | ![Stars](https://img.shields.io/github/stars/Astroa7m/RemoteWidget?style=flat) |
+
+[More Android projects →](https://github.com/Astroa7m?tab=repositories&language=kotlin&sort=stargazers)
+</details>
 
 ---
 
@@ -36,7 +49,7 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 <summary><strong>GitHub Stats</strong></summary>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astroa7m&theme=default&hide_border=true&include_all_commits=true&count_private=false&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astroa7m&theme=default&hide_border=true&layout=compact&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=astroa7m&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astroa7m&theme=tokyonight&hide_border=true&layout=compact&hide_title=true)
 
 </details>
