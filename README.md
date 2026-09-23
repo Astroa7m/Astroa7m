@@ -13,7 +13,7 @@ Building AI agents, MCP servers, and intelligent tools. Background in Android en
 
 ### What I Work With
 
-**AI & Agents**&ensp; LangChain · LangGraph · MCP · Google ADK · FastAPI · Streamlit
+**AI & Agents**&ensp; LangChain · LangGraph · MCP · Google ADK · FastAPI · CoPilot-Kit · Streamlit
 
 **Languages**&ensp; Python · Kotlin · Java · C#
 
